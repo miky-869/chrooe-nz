@@ -1,7 +1,7 @@
 
 # starter-discord-bot
 
-**Update Time: 2025/02/10 09:11:00**
+**Update Time: 2025/02/17 09:11:00**
 
 Follow these instructions after deploying this repo on Cyclic.sh
 
